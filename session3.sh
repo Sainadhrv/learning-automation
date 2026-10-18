@@ -1,5 +1,5 @@
  PERSON1=$1
 PERSON2=$2
-echo "PERSON1::HELLO $PERSON2 ,How are you"
+echo "$PERSON1::HELLO $PERSON2 ,How are you"
 echo "PERSON2:::hey,hi $PERSON1,I am doing good"
 echo "now $PERSON1 AND $PERSON2 ARE ATARTED TALKING TO EACH OTHER...."
